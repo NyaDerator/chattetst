@@ -1,3 +1,5 @@
+# Если что это спизжено
+
 import asyncio
 
 from pywebio import start_server
